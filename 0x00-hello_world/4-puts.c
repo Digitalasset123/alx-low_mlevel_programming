@@ -1,8 +1,6 @@
 #include <stdio.h>
-
 /**
  * main - My first program in C
- *
  * Return: Always 0 (Success)
  */
 int main(void)
